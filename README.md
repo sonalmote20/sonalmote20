@@ -26,9 +26,10 @@ I started with curiosity, got into coding, and now I'm usually somewhere between
 
 ---
 
-### Connect
+## socials
 
 * **LinkedIn:** [Sonal Mote](https://www.linkedin.com/in/sonal-mote-82a28632/)
 * **Portfolio:** Coming Soon
 * **Email:** [sonalmote8888@gmail.com](mailto:sonalmote8888@gmail.com)
 * **GitHub:** [sonalmote20](https://github.com/sonalmote20)
+
