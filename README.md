@@ -4,7 +4,7 @@
 
 I'm an IT student who likes turning random ideas into things that actually work.
 
-I started with curiosity, got into coding, and now I'm usually somewhere between **building, breaking, debugging, and shipping**.
+I started with curiosity, got into coding, and now I'm usually somewhere between **building, breaking, debugging, and shipping** :)
 
 ---
 
